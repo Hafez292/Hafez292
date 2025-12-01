@@ -54,15 +54,6 @@ I enjoy working with **infrastructure as code**, **CI/CD pipelines**, and **reli
 
 ### Repository Contents
 
-This repo hosts my core application documents:
-
-- **`Moahmed AbdelHafez -Cv.pdf`** – Primary CV in PDF format.  
-- **`Moahmed AbdelHafez -Cv.docx`** – Editable Word version of my CV.  
-- **`MoahmedAbdelHafez-Coverletter.pdf`** – Tailored cover letter in PDF format.  
-- **`MoahmedAbdelHafez-Coverletter.docx`** – Editable Word version of my cover letter.
-
-> File names are kept as originally authored; future updates will keep the same names for consistency.
-
 ### GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hafez292&show_icons=true&theme=dark&hide_border=true)  
