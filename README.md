@@ -8,11 +8,11 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">⭐About me</h2>
 
 ###
 
-<p align="left">📚 I'm currently diving deeper into: Kubernetes, Monitoring & Observability , and Advanced Terraform<br>🎯 Goals: Become a Senior Cloud/DevOps Engineer and architect fully automated, production-grade cloud systems<br>🔌 Interests That Recharge Me: Ice cream, Tennis, and listening to tech podcasts 🎧<br><br><br>I'm an **AWS Certified Cloud & DevOps Engineer** with hands-on experience in automation, infrastructure as code, CI/CD pipelines, and cloud-native technologies. I love building scalable systems, designing modern cloud architectures, and automating everything I can.</p>
+<p align="left">📚 I'm currently diving deeper into: Kubernetes, Monitoring & Observability , and Advanced Terraform<br>🎯 Goals: Become a Senior Cloud/DevOps Engineer and architect fully automated, production-grade cloud systems<br>🔌 Interests That Recharge Me: Ice cream, Tennis, and listening to tech podcasts 🎧<br><br><br>I'm an AWS Certified Cloud & DevOps Engineer with hands-on experience in automation, infrastructure as code, CI/CD pipelines, and cloud-native technologies. I love building scalable systems, designing modern cloud architectures, and automating everything I can.</p>
 
 ###
 
@@ -22,7 +22,9 @@
 
 ###
 
-<p align="left">☁️**Cloud & Iac &  Monitoring & Observability**</p>
+<br clear="both">
+
+<h6 align="left">☁️Cloud & Iac &  Monitoring & Observability</h6>
 
 ###
 
@@ -36,7 +38,7 @@
 
 ###
 
-<p align="left">🚀 **DevOps & CI/CD**</p>
+<h6 align="left">🚀 DevOps & CI/CD</h6>
 
 ###
 
@@ -50,7 +52,7 @@
 
 ###
 
-<p align="left">🔧 **Scripting & Automation**</p>
+<h6 align="left">🔧 Scripting & Automation</h6>
 
 ###
 
@@ -62,7 +64,9 @@
 
 ###
 
-<p align="left">💻 **Operating Systems**</p>
+<br clear="both">
+
+<h6 align="left">💻 Operating Systems</h6>
 
 ###
 
@@ -81,5 +85,65 @@
 <div align="center">
   <img height="200" src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"  />
 </div>
+
+###
+
+<br clear="both">
+
+<h2 align="left">📌 Featured Projects</h2>
+
+###
+
+<br clear="both">
+
+<h6 align="left">Vote-App : Secure, Observable & Scalable Cloud Deployment</h6>
+
+###
+
+<br clear="both">
+
+<p align="left">Designed and deployed a production-grade voting application with full observability, automation, and multi-service architecture<br>EKS • Terraform • Helm • GitHub Actions • Datadog</p>
+
+###
+
+<br clear="both">
+
+<h6 align="left">Weather App Containerization</h6>
+
+###
+
+<br clear="both">
+
+<p align="left">Standardized deployment using Docker for a complete web stack<br><br>Docker • Nginx • Apache • Docker Compose</p>
+
+###
+
+<br clear="both">
+
+<h6 align="left">Automated AWS 3-Tier Architecture</h6>
+
+###
+
+<br clear="both">
+
+<p align="left">Built modular, secure 3-tier infrastructure including VPC, EC2, S3—reducing provisioning time and improving reliability.<br><br>AWS   •Terraform</p>
+
+###
+
+<br clear="both">
+
+<h2 align="left">📫 Connect with Me</h2>
+
+###
+
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohemedabdelhafez417@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-25D366?logo=whatsapp&logoColor=white)](tel:+201064750334)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedabelhafez)
+
+###
+
+<br clear="both">
+
+<h2 align="left">⭐ Feel free to explore my repositories and projects!</h2>
 
 ###
