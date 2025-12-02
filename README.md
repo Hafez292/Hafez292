@@ -96,7 +96,7 @@
 
 <br clear="both">
 
-<h6 align="left">Vote-App : Secure, Observable & Scalable Cloud Deployment</h6>
+<h4 align="left">Vote-App : Secure, Observable & Scalable Cloud Deployment</h4>
 
 ###
 
@@ -108,19 +108,19 @@
 
 <br clear="both">
 
-<h6 align="left">Weather App Containerization</h6>
+<h3 align="left">Weather App Containerization</h3>
 
 ###
 
 <br clear="both">
 
-<p align="left">Standardized deployment using Docker for a complete web stack<br><br>Docker • Nginx • Apache • Docker Compose</p>
+<p align="left">Standardized deployment using Docker for a complete web stack<br>Docker • Nginx • Apache • Docker Compose</p>
 
 ###
 
 <br clear="both">
 
-<h6 align="left">Automated AWS 3-Tier Architecture</h6>
+<h4 align="left">Automated AWS 3-Tier Architecture</h4>
 
 ###
 
@@ -136,14 +136,23 @@
 
 ###
 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohemedabdelhafez417@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-25D366?logo=whatsapp&logoColor=white)](tel:+201064750334)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedabelhafez)
+<div align="left">
+  <a href="https://www.linkedin.com/in/mohamedabelhafez" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+  <a href="https://wa.me/201064750334" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
+  </a>
+  <a href="mailto:mohemedabdelhafez417@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  </a>
+</div>
+
 
 ###
 
 <br clear="both">
 
-<h2 align="left">⭐ Feel free to explore my repositories and projects!</h2>
+<h3 align="left">⭐ Feel free to explore my repositories and projects!</h3>
 
 ###
