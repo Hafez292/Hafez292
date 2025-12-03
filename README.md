@@ -98,33 +98,15 @@
 
 <h4 align="left">Vote-App : Secure, Observable & Scalable Cloud Deployment</h4>
 
-###
-
-<br clear="both">
-
 <p align="left">Designed and deployed a production-grade voting application with full observability, automation, and multi-service architecture<br>EKS • Terraform • Helm • GitHub Actions • Datadog</p>
-
-###
-
-<br clear="both">
 
 <h3 align="left">Weather App Containerization</h3>
 
-###
-
-<br clear="both">
 
 <p align="left">Standardized deployment using Docker for a complete web stack<br>Docker • Nginx • Apache • Docker Compose</p>
 
-###
-
-<br clear="both">
 
 <h4 align="left">Automated AWS 3-Tier Architecture</h4>
-
-###
-
-<br clear="both">
 
 <p align="left">Built modular, secure 3-tier infrastructure including VPC, EC2, S3—reducing provisioning time and improving reliability.<br><br>AWS   •Terraform</p>
 
